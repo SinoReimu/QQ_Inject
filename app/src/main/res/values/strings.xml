@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeidoModule</string>
+    <string name="testaccessibility">AAAAAA</string>
+    <string name="accessibility_service_label">mdata</string>
+    <string name="accessibility_service_description">aaa</string>
+    <string name="acc_description">aa</string>
+</resources>
